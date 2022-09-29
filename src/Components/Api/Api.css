@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.card{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px 5px;
+    width: 300px;
+}
+.imgCard{
+    width: 200px;
+    height: 300px;
+}
+
+.texto{
+    text-align: left;
+}
